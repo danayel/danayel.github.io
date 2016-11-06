@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "RIP Nokia"
+date:   2013-09-07 00:00:00 +0900
+categories: linux-foundation comics
+---
+
+![{{ page.title }}]({{ site.comicsurl }}82-RIP-Nokia.jpg)
+
+This comic originally appeared on [linux.com](https://www.linux.com) and was sponsored by [The Linux Foundation](https://www.linuxfoundation.org/).
+
+
+And so ends an Era. The mighty Nokia, which once encompassed the world has been reduced to bargain basement scraps that Microsoft has scraped up and will attempt to make into a Windows Phone handset unit.
+
+But how did this come about? How could such a dominant player have been brought so low in what is likely the fastest corporate collapse in history? Is Stephen Elop simply the [world's most incompetent CEO](http://communities-dominate.blogs.com/brands/) or was this something more malicious and deliberate?
+
+p.s. Yes Balmer is leaving MS, but he was CEO at the time Elop took over Nokia and proceeded to destroy it.

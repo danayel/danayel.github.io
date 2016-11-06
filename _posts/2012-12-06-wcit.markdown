@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "WCIT"
+date:   2012-12-06 00:00:00 +0900
+categories: linux-foundation comics
+---
+
+![{{ page.title }}]({{ site.comicsurl }}56-WCIT.jpg)
+
+This comic originally appeared on [linux.com](https://www.linux.com) and was sponsored by [The Linux Foundation](https://www.linuxfoundation.org/).
+
+
+For those scarce few that haven't heard, the WCIT is going on in Dubai right now with a proposal to fundamentally alter the nature of the internet and essentially bring it under the thumb of governments and telecommunications companies, but there is also a grab bag of concessions to other industries, notably media, in the form of Intellectual Property proposals.
+
+Very little has been made public by the ITU about the proposals and we are ultimately reliant on leaks and friendly government bodies to [let the public know](http://wcitleaks.org/) what is going on.  Which is scary considering how important the internet is to pretty much the entire world these days.
