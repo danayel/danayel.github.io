@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Left4Work"
+date:   2012-08-09 00:00:00 +0900
+categories: linux-foundation comics
+---
+
+![{{ page.title }}]({{ site.comicsurl }}44-Left4Work.jpg)
+
+This comic originally appeared on [linux.com](https://www.linux.com) and was sponsored by [The Linux Foundation](https://www.linuxfoundation.org/).
