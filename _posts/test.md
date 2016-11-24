@@ -9,7 +9,7 @@ image3: images/img3.jpg
 image4: images/img4.jpg  
 statut: Vendu
 categorie: Vêtements
-description: Couvrez-vous de jour comme de nuit avec ce blazer sans manches. Couleur : Beige. Etat : Occasion.
+description: "Couvrez-vous de jour comme de nuit avec ce blazer sans manches. Couleur : Beige. Etat : Occasion."
 ---
 
 Awesome website design with minimal touches.
